@@ -2,7 +2,7 @@ LoRa IoT platform.\
 The project was done back on 2017.\
 It was posted on my X account (https://x.com/NimicMe), formerly twitter as project.\
 LoPy board (from PyCom)\
-LoRa is a wireless radio communication technology (physical layer) that enables long-range, low-power communication between devices.\
+LoRa (Long Range) is a wireless radio communication technology (physical layer) that enables long-range, low-power communication between devices.\
 Uses frequency in ISM band, uses Chirp Spread Spectrum (CSS). \
 Different regions uses different frequencies. Eg, Singapore 923Mhz.\
 Uses frequency hopping.
