@@ -4,8 +4,8 @@ It was posted on my X account (https://x.com/NimicMe), formerly twitter as proje
 LoPy board (from PyCom)\
 LoRa (Long Range) is a wireless radio communication technology (physical layer) that enables long-range, low-power communication between devices.\
 Uses frequency in ISM band, uses Chirp Spread Spectrum (CSS). \
+Uses frequency hopping (minimizes noise interference)
 Different regions uses different frequencies. Eg, Singapore 923Mhz.\
-Uses frequency hopping.
 
 1. The LoPy board
    
